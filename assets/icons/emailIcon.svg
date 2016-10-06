@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="56px" viewBox="0 0 57 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>emailIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-2" cx="24.1546114" cy="24.1297297" rx="24.1546114" ry="24.1297297"></ellipse>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-447.000000, -63.000000)">
+            <g id="email-icon" sketch:type="MSLayerGroup" transform="translate(451.000000, 65.000000)">
+                <g id="Oval-19-Copy-4" filter="url(#filter-1)">
+                    <use fill="#FF5252" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use fill="none" xlink:href="#path-2"></use>
+                </g>
+                <g id="envelope" transform="translate(7.000000, 12.000000)" fill="#FFFFFF" sketch:type="MSShapeGroup">
+                    <g id="Group">
+                        <path d="M33.2064095,0.77803066 C32.7215231,0.300757933 32.0399776,-0.00037843095 31.2954549,3.56929207e-07 L2.70454582,3.56929207e-07 C1.96002309,-0.00037843095 1.27847764,0.300757933 0.793591273,0.77803066 C0.306773091,1.25340945 -0.000385999569,1.92159127 3.64067791e-07,2.65151551 L3.64067791e-07,22.3484852 C-0.000385999569,23.0784094 0.306773091,23.7465913 0.793591273,24.2219701 C1.27847764,24.6992428 1.96002309,25.0003791 2.70454582,25.0000004 L31.2954549,25.0000004 C32.0399776,25.0003791 32.7215231,24.6992428 33.2064095,24.2219701 C33.6932276,23.7465913 34.0003867,23.0780307 34.0000004,22.3484852 L34.0000004,2.65151551 C34.0003867,1.92159127 33.6932276,1.25340945 33.2064095,0.77803066 L33.2064095,0.77803066 Z M31.6818185,20.9969701 L22.5018185,12.6893943 L31.6818185,4.38181854 L31.6818185,20.9969701 L31.6818185,20.9969701 Z M2.70454582,2.27272763 L31.2954549,2.27272763 C31.4009322,2.27310642 31.492114,2.31250036 31.5674549,2.38484884 C31.5747958,2.39204581 31.577114,2.40075793 31.5836822,2.40833369 L18.8495231,13.9325761 C18.4527276,14.293561 17.8979095,14.4886367 17.3330458,14.4882579 C16.7886595,14.4886367 16.2554776,14.3075761 15.8637049,13.9693185 L2.42288673,2.39886399 C2.42675036,2.39431854 2.42829582,2.3893943 2.43215945,2.38484884 C2.50788673,2.31250036 2.59906855,2.27310642 2.70454582,2.27272763 L2.70454582,2.27272763 Z M2.31818218,21.0537882 L2.31818218,4.32462157 L12.0348413,12.6893943 L2.31818218,21.0537882 L2.31818218,21.0537882 Z M2.71652309,22.7272731 L13.2059095,13.6977276 L14.8440913,15.1079549 C15.5495913,15.7143943 16.4467276,16.0030307 17.3326595,16.0034094 C18.2514322,16.0030307 19.1810231,15.6924246 19.8973413,15.0462125 L21.3624322,13.7204549 L31.3112958,22.7242428 C31.3058867,22.7242428 31.3016367,22.7272731 31.2954549,22.7272731 L2.71652309,22.7272731 L2.71652309,22.7272731 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

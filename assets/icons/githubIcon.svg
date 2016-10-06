@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="57px" height="56px" viewBox="0 0 57 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>githubIcon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-2" cx="24.1546114" cy="24.1297297" rx="24.1546114" ry="24.1297297"></ellipse>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSArtboardGroup" transform="translate(-524.000000, -63.000000)">
+            <g id="github-icon" sketch:type="MSLayerGroup" transform="translate(528.000000, 65.000000)">
+                <g id="Oval-19-Copy-2" filter="url(#filter-1)">
+                    <use fill="#FF5252" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
+                    <use fill="none" xlink:href="#path-2"></use>
+                </g>
+                <path d="M32.83,10.0906667 C30.09402,11.7673333 27.27338,10.353 25.24018,10.0906667 C16.26248,8.931 13.40852,19.1993333 19.94944,23.3163333 C18.26542,24.1713333 18.37558,28.5243333 20.17996,29.1443333 C15.92996,29.621 15.14184,35.4933333 17.42018,37.8873333 C20.1922,40.7993333 28.71974,40.6066667 31.2201,37.8873333 C32.966,35.9876667 33.20842,32.0723333 31.6791,30.2663333 C30.28544,28.618 23.2913,28.369 23.4001,25.7823333 C23.47592,23.9746667 26.00484,24.2596667 27.54028,23.5406667 C30.4279,22.187 32.1245,18.1366667 30.98992,15.022 C31.63388,14.9033333 32.18502,14.6926667 32.83,14.574 L32.83,10.0906667 L32.83,10.0906667 Z M21.7902,19.5063333 C18.42454,12.3176667 29.5286,12.8333333 26.16056,19.5063333 C25.05522,20.309 22.88126,20.3886667 21.7902,19.5063333 L21.7902,19.5063333 Z M27.99996,33.6283333 C28.29814,36.852 21.63992,36.995 20.86982,34.7503333 C20.22178,32.859 21.0286,32.323 22.9394,31.8356667 C25.10384,31.283 27.80004,31.472 27.99996,33.6283333 L27.99996,33.6283333 Z" id="Github" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                <g id="github14" transform="translate(16.000000, 10.000000)">
+                    <g id="Icons"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
